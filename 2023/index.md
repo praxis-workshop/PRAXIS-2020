@@ -17,9 +17,11 @@ The overarching purpose of this Masterclass is to enkindle a community that is f
 [Amazon Neptune](https://aws.amazon.com/neptune/)
 * Cogan Shimizu (Organizer, Panelist)<br />
 [Wright State University](https://wright.edu/)
-* (Panelist, Invited)<br />
-* (Panelist, Invited)<br />
-* (Panelist, Invited)<br />
+* Nicolas Matentzoglu (Panelist, Confirmed)
+* Nicole A. Vasilevsky (Panelist, Invited)
+* Frank Loebe (Panelist, Invited)
+* Cassia Trojahn (Panelist, Invited)
+* Florence Hudson (Panelist, Invited)
 
 #### Seed Questions to the Panel
 * What challenges do you currently see in your own education initiatives?
