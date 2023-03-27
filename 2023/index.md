@@ -18,7 +18,7 @@ The overarching purpose of this Masterclass is to enkindle a community that is f
 * Cogan Shimizu (Organizer, Panelist)<br />
 [Wright State University](https://wright.edu/)
 * Nicolas Matentzoglu (Panelist, Confirmed)
-* Nicole A. Vasilevsky (Panelist, Invited)
+* Nicole A. Vasilevsky (Panelist, Confirmed)
 * Frank Loebe (Panelist, Invited)
 * Cassia Trojahn (Panelist, Invited)
 * Florence Hudson (Panelist, Invited)
