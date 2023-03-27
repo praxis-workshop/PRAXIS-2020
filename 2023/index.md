@@ -21,10 +21,13 @@ The overarching purpose of this Masterclass is to enkindle a community that is f
 * Nicole A. Vasilevsky (Panelist, Confirmed)
 * Frank Loebe (Panelist, Invited)
 * Cassia Trojahn (Panelist, Invited)
-* Florence Hudson (Panelist, Invited)
+* Florence Hudson (Panelist, Confirmed)
+  * Emily Rothenberg (Alternate)
 
 #### Seed Questions to the Panel
 * What challenges do you currently see in your own education initiatives?
+* What are lessons learned (or being learned) related to open-source educational material?
+* What are reasonable governance structures, expectations, and outcomes for open-source educational material?
 
 ### Moderated Community Discussion
 * What are characteristics of an effective one-pager which motivates knowledge graphs for a use-case?
