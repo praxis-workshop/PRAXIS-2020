@@ -1,5 +1,5 @@
 # The Praxis of Teaching Knowledge Graphs
-Welcome to the second event in the PRAXIS series. This Masterclass will be co-located with the Knowledge Graph Conference, virtually, on May 8-9, 2023 (final program to be confirmed).
+Welcome to the second event in the PRAXIS Workshop Series. This Masterclass will be co-located with the [Knowledge Graph Conference](https://www.knowledgegraph.tech/), virtually, on 11am EST May 8th, 2023.
 
 The overarching purpose of this Masterclass is to enkindle a community that is focused on the collection, development, and curation of pedagogical best practices, and the tools that support them, for the Semantic Web and Knowledge Graph communities. More concretely, we wish to:
 
