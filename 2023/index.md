@@ -19,10 +19,8 @@ The overarching purpose of this Masterclass is to enkindle a community that is f
 [Wright State University](https://wright.edu/)
 * Nicolas Matentzoglu (Panelist, Confirmed)
 * Nicole A. Vasilevsky (Panelist, Confirmed)
-* Frank Loebe (Panelist, Invited)
-* Cassia Trojahn (Panelist, Invited)
 * Florence Hudson (Panelist, Confirmed)
-  * Emily Rothenberg (Alternate)
+  * Emily Rothenberg (Alternate, Confirmed)
 
 #### Seed Questions to the Panel
 * What challenges do you currently see in your own education initiatives?
@@ -33,4 +31,6 @@ The overarching purpose of this Masterclass is to enkindle a community that is f
 * What are characteristics of an effective one-pager which motivates knowledge graphs for a use-case?
 
 ## Attendance
-TBD
+[Conference Schedule](https://www.airmeet.com/e/0c051720-4a51-11ed-b7ce-81fe6535fd7a#schedule)
+3:30 PM - 5:00 PM
+Room 4 (Online)
